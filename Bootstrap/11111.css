@@ -1,0 +1,9 @@
+
+.box
+{
+    margin: auto;
+    padding: 0;
+    border: 7px solid red;
+    border-radius: 5px;
+    background-color: yellow;
+}

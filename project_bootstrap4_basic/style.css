@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+a{
+    color:#333333;
+}
+#ss2
+{
+    background-color: black;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+#library
+{
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+
+.kk
+{
+    padding-bottom: 20px;
+    border-bottom: 1px solid black;
+    margin-bottom;: 20px;
+}
+#footer
+{
+    background-color: black;
+}

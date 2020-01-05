@@ -1,0 +1,63 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+.box1
+{
+    background-color: blue;
+    width: 500px;
+    height: 500px;
+    float: left;
+    font-size: 200px;
+    text-align: center;
+    line-height: 500px;
+}
+.box1 span
+{
+    display: none;
+}
+.box1:hover span
+{
+    display: inline-block;
+}
+.box1:hover
+{
+    background-image: url(https://media-cdn.tripadvisor.com/media/photo-s/12/45/4d/03/anhr-tren-d-i-nhin-v.jpg);
+    background-size: cover;
+}
+.box2
+{
+    background-color: red;
+    width: 200px;
+    height: 200px;
+    float: left;
+}
+.box2:hover span
+{
+    display: inline-block;
+}
+.box2:hover
+{
+    background-image: url(http://www.iness91.fr/wp-content/uploads/2015/01/4_AnrHservices-500x500.jpg);
+    background-size: cover;
+}
+.listbox
+{
+    background-color: green;
+    overflow: auto;
+    
+}
+.clear-both
+{   
+   clear:both;
+    
+}
+video
+{
+    width: 50%;;
+}
+audio
+{
+    width: 50%;
+}

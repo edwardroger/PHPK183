@@ -1,0 +1,34 @@
+#header
+{
+    background-image: url(https://s3.amazonaws.com/liberty-uploads/wp-content/uploads/sites/1218/2015/09/avatarsucks.jpg);
+    width: 750px;
+    height: 500px;
+    padding: 10px;
+    border: 5px;
+    margin:0;
+}
+.box1{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    color: blue;
+    padding: 5px 10px 20px;
+    border: 10px;
+    border-radius: 5px;
+}
+.box2{
+    width: 200px;
+    height: 100px;
+    background-color: yellow;
+    color: red;
+    margin-bottom: 50px;
+}
+.box3{
+    width: 300px;
+    height: 100px;
+    background-color: blue;
+    color: yellow;
+    border:5px dotted;
+    border-color: red;
+    
+}
